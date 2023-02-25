@@ -1,14 +1,16 @@
-## Hi, my name's Vitor.
+<div align="center">
+ <h1>##Hi, my name's Vitor.</h1>
+ </div>
 
  <div>
   <a href="https://github.com/TheVitorj">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorRibeiru&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRibeiru&layout=compact&langs_count=7&theme=dark"/>
+  <img height="178em" src="https://github-readme-stats.vercel.app/api?username=VitorRibeiru&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRibeiru&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-
-## These are technologies I use.👨🏽‍💻
-
+<div align="center">
+<h1>These are technologies I use.👨🏽‍💻 </h1>
+</div>
 <div style="display: inline_block"><br/>    
     <img height="50" width="60" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <!-- HTML5  -->
@@ -50,15 +52,13 @@ In love with games!~~</br>
 
 
 
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/VitorRibeiru/count.svg" /></p>
-
-
-
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/VitorRibeiru/count.svg" />
 
 ![snake gif](https://github.com/LucasSeabraa/LucasSeabraa/blob/output/github-contribution-grid-snake.svg)
-
- ## Contacts. <img height="30" width="40" alt="contact" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/address-card.svg">
- <div>
+<div align="center">
+ <h1>## Contacts. <img height="30" width="40" alt="contact" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/address-card.svg"></h1>
+ </div>
+<div>
 <a href="https://www.linkedin.com/in/jvitor-ribeiro/"target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://instagram.com/ribeirovitorj"target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://twitch.tv/Vitaumlul"target="blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
