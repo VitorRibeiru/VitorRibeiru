@@ -2,9 +2,10 @@
 
  <div>
   <a href="https://github.com/TheVitorj">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorRibeiru&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRibeiru&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorRibeiru&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRibeiru&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
 
 ## These are technologies I use.👨🏽‍💻
 
@@ -49,21 +50,12 @@ In love with games!~~</br>
 
 
 
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/LucasSeabraa/count.svg" /></p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/VitorRibeiru/count.svg" /></p>
 
 
 
 
 ![snake gif](https://github.com/LucasSeabraa/LucasSeabraa/blob/output/github-contribution-grid-snake.svg)
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
 
  ## Contacts. <img height="30" width="40" alt="contact" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/address-card.svg">
  <div>
