@@ -31,9 +31,9 @@
     <!-- Phyton  -->  
     <img height="50" width="60" alt="UnrealEngine" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" />   
     <!-- UnrealEngine  -->
-    <img height="50" width="60" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
+    <!-- <img height="50" width="60" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
     <!-- Git  -->
-    <img height="50" width="60" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    <!--<img height="50" width="60" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
     <!-- GitHub  -->            
     <img height="50" width="60" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     <!-- Linux -->
