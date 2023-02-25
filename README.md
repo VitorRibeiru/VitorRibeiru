@@ -45,7 +45,25 @@
 
 I love technology and the things it lets us do.~~ <br>
 I love to learn new things and develop.~~ <br>
-In love with games!~~
+In love with games!~~</br>
+
+
+
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/LucasSeabraa/count.svg" /></p>
+
+
+
+
+![snake gif](https://github.com/LucasSeabraa/LucasSeabraa/blob/output/github-contribution-grid-snake.svg)
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
 
  ## Contacts. <img height="30" width="40" alt="contact" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/address-card.svg">
  <div>
