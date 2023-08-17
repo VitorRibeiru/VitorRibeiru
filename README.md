@@ -54,7 +54,6 @@ In love with games!~~</br>
 
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/VitorRibeiru/count.svg" />
 
-![snake gif](https://github.com/LucasSeabraa/LucasSeabraa/blob/output/github-contribution-grid-snake.svg)
 <div align="center">
  <h1>## Contacts. <img height="30" width="40" alt="contact" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/address-card.svg"></h1>
  </div>
